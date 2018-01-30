@@ -1,0 +1,57 @@
+h1 {
+	color: #44749D;
+	font-size: 60px;
+	font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+	color: #44749D;
+}
+
+.fist-paragraph	{
+	background-color: rgb(170, 170, 170);
+	text-align: center;
+	margin-top: 70px;
+	margin-right: 130px;
+	margin-left: 130px;
+	margin-bottom: 70px;
+	border: solid 5px #44749D;
+	border-radius: 100px;
+	box-shadow: 10px 10px 5px grey;
+
+	padding: 50px;
+}
+
+body {
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+#avatar {
+	width: 500px;
+}
+
+.network {
+	width: 50px
+}
+
+#abstract {
+	font-weight: bold;
+}
+
+.shadow {
+	box-shadow: 10px 10px 5px grey;
+}
+
+.icon-network{
+	font-size: 70px !important;
+	 color: grey;
+	 text-decoration: none;
+}
+
+.container {
+	background: red;
+	width: 50px;
+}
